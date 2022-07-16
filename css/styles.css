@@ -2,9 +2,13 @@
 body{
 
     margin: 0;
+    text-align: center;
+    
 }
 
 h1 {
+    
+    background-color: #dffffd;
     margin-top: 0;
     
 }
@@ -20,7 +24,7 @@ h1 {
 
     width: 200px;
     width: 100%;
-    height: 200px;
+    /* height: 100vh; */
 
     margin-bottom: 20px;
 
